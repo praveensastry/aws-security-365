@@ -84,3 +84,5 @@ A collection of open source tools to assess, harden and audit various AWS servic
 - http://flaws.cloud/
 - https://github.com/RhinoSecurityLabs/cloudgoat
 
+Thanks to @toniblyx for the original repo
+
