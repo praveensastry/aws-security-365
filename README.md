@@ -46,6 +46,9 @@ A collection of open source tools to assess, harden and audit various AWS servic
 - LiMEaide: https://kd8bny.github.io/LiMEaide/ - Linux memory remote acquisition tool
 - Diffy: https://github.com/Netflix-Skunkworks/diffy - Triage tool used during cloud-centric security incidents
 
+# Serverless:
+- Puresec CLI : https://github.com/puresec/serverless-puresec-cli - Serverless plugin for least privileges
+
 # Development Security
 
 - CFN NAG: https://github.com/stelligent/cfn_nag - CloudFormation security test (Ruby)
